@@ -3,6 +3,8 @@
 ## Overview
 The **Fancy Like Button** is a React component that provides an interactive and visually engaging "like" button experience. Built with **Framer Motion** for smooth animations and **React** state management, this button adds floating hearts and expanding circles as dynamic feedback when clicked. This component is perfect for applications requiring an aesthetically pleasing and fun user interaction.
 
+![fancyLikeButton](https://github.com/user-attachments/assets/8d3e0418-ce36-4109-a38c-df9017b20cc8)
+
 ## Code
 Here's the jsx code of the component so you don't have to download any files
 ```bash
