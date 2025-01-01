@@ -166,9 +166,8 @@ const Circles = ({ xNum, delay, size }) => {
 
 ## Features
 - **Animated Hearts:** Floating heart animations triggered upon button click.
-- **Expanding Circles:** Rings of circles that expand and fade out to enhance the visual effect.
+- **Trails:** An animated trail that follows the floating hearts.
 - **Customizable Animation:** Built using Framer Motion, allowing easy adjustment of animation properties.
-- **Responsive Design:** Fully responsive and optimized for different screen sizes.
 
 ## Installation
 1. Clone the repository or copy the component's code.
