@@ -220,9 +220,3 @@ Feel free to submit issues or pull requests to enhance the Fancy Like Button.
 ## License
 This component is open-source and available under the MIT License.
 
-## Demo
-Add a live link or GIF showcasing the Fancy Like Button in action.
-
-## Author
-Developed by [Your Name/Username].
-
