@@ -208,7 +208,7 @@ The component uses Tailwind CSS for styling. Ensure your project has Tailwind CS
 ## Dependencies
 - **React:** For building the component.
 - **Framer Motion:** For handling animations.
-- **Tailwind CSS:** For styling (optional).
+- **Tailwind CSS:** For styling.
 
 ## Customization
 You can customize the component as follows:
